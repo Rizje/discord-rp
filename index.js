@@ -12,7 +12,7 @@ large_text : "penis",
 small_image : "small",
 small_text : "@gnfq"
 },
-buttons : [{label : "tiktok" , url : "https://tiktok.com/@.gnfq"},{label : "jeti",url : "https://link.jeti.app/gvn"}]
+buttons : [{label : "github" , url : "https://github.com/Rizje"},{label : "jeti",url : "https://link.jeti.app/gvn"}]
 }
 })
 })
